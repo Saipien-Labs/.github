@@ -4,7 +4,7 @@
 
 # 🚀 Saipien [LABS]
 
-<img src="./profile/social-card-animated.svg" alt="Saipien Labs" width="100%">
+<img src="./profile/social-card-animated.png" alt="Saipien Labs" width="100%">
 
 ### AI-accelerated dev pods that ship production in 90 days
 
@@ -93,17 +93,17 @@ Logging, eval loops, rollback plans, spend caps baked in
 <tr>
 <td width="33%">
 <a href="https://github.com/Saipien-Labs/pravado">
-  <img src="./assets/pravado-card.svg" width="100%" alt="pravado">
+  <img src="./assets/pravado-card.png" width="100%" alt="pravado">
 </a>
 </td>
 <td width="33%">
 <a href="https://github.com/Saipien-Labs/aivery">
-  <img src="./assets/aivery-card.svg" width="100%" alt="aivery">
+  <img src="./assets/aivery-card.png" width="100%" alt="aivery">
 </a>
 </td>
 <td width="33%">
 <a href="https://github.com/Saipien-Labs/wellstead">
-  <img src="./assets/wellstead-card.svg" width="100%" alt="wellstead">
+  <img src="./assets/wellstead-card.png" width="100%" alt="wellstead">
 </a>
 </td>
 </tr>
