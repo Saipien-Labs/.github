@@ -4,7 +4,7 @@
 
 # 🚀 Saipien [LABS]
 
-<img src="./profile/social-card-animated.png" alt="Saipien Labs" width="100%">
+<img src="./profile/social-card.png" alt="Saipien Labs" width="100%">
 
 ### AI-accelerated dev pods that ship production in 90 days
 
