@@ -1,8 +1,10 @@
 <div align="center">
 
+![Profile Views](https://komarev.com/ghpvc/?username=Saipien-Labs&color=00BFA6&style=for-the-badge)
+
 # 🚀 Saipien [LABS]
 
-<img src="./profile/social-card.png" alt="Saipien Labs" width="100%">
+<img src="./profile/social-card-animated.svg" alt="Saipien Labs" width="100%">
 
 ### AI-accelerated dev pods that ship production in 90 days
 
@@ -15,7 +17,7 @@
 
 ---
 
-## 💡 Build Real Software, Really Fast
+## 💡 What We Do
 
 **Saipien [LABS]** is a senior, AI-accelerated development pod. We audit workflows, map high-leverage automation, and then **build, integrate, harden, and hand off production systems**.
 
@@ -47,6 +49,18 @@ Logging, eval loops, rollback plans, spend caps baked in
 
 ---
 
+## 📊 Activity
+
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Saipien-Labs&theme=github-dark&bg_color=0B0F14&color=00F5A0&line=9A5CFF&point=4C8DFF&area=true&hide_border=true)
+
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Saipien-Labs&theme=dark&background=0B0F14&ring=00F5A0&fire=9A5CFF&currStreakLabel=4C8DFF&hide_border=true)
+
+</div>
+
+---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -73,80 +87,68 @@ Logging, eval loops, rollback plans, spend caps baked in
 
 ---
 
-## 📦 Open Source Projects
+## 📦 Featured Projects
 
 <table>
 <tr>
-<td width="50%">
-
-### 🌐 [saipienlabs.com](https://github.com/Saipien-Labs/saipienlabs.com)
-**Main Website**
-Next.js on Cloudflare Pages • Marketing site • SEO optimized
-
-![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=flat-square)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-orange?style=flat-square)
-
+<td width="33%">
+<a href="https://github.com/Saipien-Labs/pravado">
+  <img src="./assets/pravado-card.svg" width="100%" alt="pravado">
+</a>
 </td>
-<td width="50%">
-
-### 📊 [pravado](https://github.com/Saipien-Labs/pravado)
-**Revenue Ops Automation**
-AI-powered pipeline intelligence • CRM integration • Forecasting
-
-![AI](https://img.shields.io/badge/AI-purple?style=flat-square)
-![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=flat-square)
-![CRM](https://img.shields.io/badge/CRM-green?style=flat-square)
-
+<td width="33%">
+<a href="https://github.com/Saipien-Labs/aivery">
+  <img src="./assets/aivery-card.svg" width="100%" alt="aivery">
+</a>
 </td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🤖 [aivery](https://github.com/Saipien-Labs/aivery)
-**AI Workflow Engine**
-Support automation • Ticket routing • AI agent framework
-
-![AI](https://img.shields.io/badge/AI-purple?style=flat-square)
-![Automation](https://img.shields.io/badge/Automation-teal?style=flat-square)
-![Support](https://img.shields.io/badge/Support-cyan?style=flat-square)
-
-</td>
-<td width="50%">
-
-### 🏥 [wellstead](https://github.com/Saipien-Labs/wellstead)
-**Intake & Triage Automation**
-Form builder • Conditional logic • Data routing
-
-![Forms](https://img.shields.io/badge/Forms-blue?style=flat-square)
-![Workflow](https://img.shields.io/badge/Workflow-green?style=flat-square)
-![Automation](https://img.shields.io/badge/Automation-teal?style=flat-square)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 📦 [saipien-templates](https://github.com/Saipien-Labs/saipien-templates)
-**Starter Kits**
-Project templates • Best practices • CI/CD configs
-
-![Templates](https://img.shields.io/badge/Templates-orange?style=flat-square)
-![Boilerplate](https://img.shields.io/badge/Boilerplate-yellow?style=flat-square)
-
-</td>
-<td width="50%">
-
-### ⚙️ [spec-kit](https://github.com/Saipien-Labs/spec-kit)
-**Dev Automations**
-CLI tools • Code generation • Build scripts
-
-![CLI](https://img.shields.io/badge/CLI-red?style=flat-square)
-![DevTools](https://img.shields.io/badge/DevTools-blue?style=flat-square)
-
+<td width="33%">
+<a href="https://github.com/Saipien-Labs/wellstead">
+  <img src="./assets/wellstead-card.svg" width="100%" alt="wellstead">
+</a>
 </td>
 </tr>
 </table>
+
+---
+
+## 📝 Latest Updates
+
+<!-- This section auto-updates via GitHub Actions -->
+
+- 🚀 **Pravado** - Revenue ops automation now in production
+- 🤖 **aivery** - AI support engine in beta testing
+- 🏗️ **Wellstead** - Triage automation under development
+
+<sub>Last updated: 2025-10-29</sub>
+
+---
+
+<details>
+<summary>🔧 How We Work (Click to expand)</summary>
+
+### Our 90-Day Process
+
+1. **Week 1-2: Discovery & Architecture**
+   - Workflow audit & opportunity mapping
+   - Integration analysis
+   - Technical specification
+
+2. **Week 3-8: Core Build Sprint**
+   - MVP development
+   - Daily standups & weekly demos
+   - Continuous integration
+
+3. **Week 9-11: Integration & Hardening**
+   - System integration testing
+   - Security hardening & compliance
+   - Performance optimization
+
+4. **Week 12: Handoff & Training**
+   - Knowledge transfer
+   - Documentation & runbooks
+   - Support setup & monitoring
+
+</details>
 
 ---
 
@@ -181,8 +183,9 @@ CLI tools • Code generation • Build scripts
 
 [Website](https://saipienlabs.com) • [Email](mailto:hello@saipienlabs.com) • [LinkedIn](https://linkedin.com/company/saipien-labs) • [Twitter](https://twitter.com/SaipienLabs)
 
-<img src="https://img.shields.io/badge/Built_with-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-<img src="https://img.shields.io/badge/Powered_by-AI-9A5CFF?style=flat-square" alt="AI">
-<img src="https://img.shields.io/badge/Shipped_in-90_Days-00F5A0?style=flat-square" alt="90 Days">
+![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/Built_with-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![AI Powered](https://img.shields.io/badge/Powered_by-AI-9A5CFF?style=for-the-badge)
+![Shipped](https://img.shields.io/badge/Shipped_in-90_Days-00F5A0?style=for-the-badge)
 
 </div>
