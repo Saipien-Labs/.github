@@ -167,16 +167,6 @@ Logging, eval loops, rollback plans, spend caps baked in
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Organization Stats](https://github-readme-stats.vercel.app/api?username=Saipien-Labs&show_icons=true&theme=transparent&hide_border=true&title_color=00F5A0&icon_color=9A5CFF&text_color=E6EBF2&bg_color=0B0F14)
-
-</div>
-
----
-
 <div align="center">
 
 ### 🌟 Star our projects if you find them useful!
