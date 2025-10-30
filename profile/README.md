@@ -1,10 +1,12 @@
 <div align="center">
 
+<img src="./saipien-logo.png" alt="Saipien Labs Logo" width="150" height="150">
+
 ![Profile Views](https://komarev.com/ghpvc/?username=Saipien-Labs&color=00BFA6&style=for-the-badge)
 
 # 🚀 Saipien [LABS]
 
-<img src="./profile/social-card.png" alt="Saipien Labs" width="100%">
+<img src="./social-card.png" alt="Saipien Labs" width="100%">
 
 ### AI-accelerated dev pods that ship production in 90 days
 
@@ -93,17 +95,17 @@ Logging, eval loops, rollback plans, spend caps baked in
 <tr>
 <td width="33%">
 <a href="https://github.com/Saipien-Labs/pravado">
-  <img src="./assets/pravado-card.png" width="100%" alt="pravado">
+  <img src="../assets/pravado-card.png" width="100%" alt="pravado">
 </a>
 </td>
 <td width="33%">
 <a href="https://github.com/Saipien-Labs/aivery">
-  <img src="./assets/aivery-card.png" width="100%" alt="aivery">
+  <img src="../assets/aivery-card.png" width="100%" alt="aivery">
 </a>
 </td>
 <td width="33%">
 <a href="https://github.com/Saipien-Labs/wellstead">
-  <img src="./assets/wellstead-card.png" width="100%" alt="wellstead">
+  <img src="../assets/wellstead-card.png" width="100%" alt="wellstead">
 </a>
 </td>
 </tr>
@@ -119,7 +121,7 @@ Logging, eval loops, rollback plans, spend caps baked in
 - 🤖 **aivery** - AI support engine in beta testing
 - 🏗️ **Wellstead** - Triage automation under development
 
-<sub>Last updated: 2025-10-29</sub>
+<sub>Last updated: 2025-10-30</sub>
 
 ---
 
